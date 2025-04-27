@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeZKiLL
-- 👀 I’m interested in Computer Engineering
+- 👀 I’m interested in Computer Engineering and Vibe Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python-based projects
 - 📫 How to reach me ... I don't know hahahaha
